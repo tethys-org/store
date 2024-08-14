@@ -8,9 +8,9 @@
       "@tethys/store/*": ["packages/store/*"],
       "@tethys/store": ["packages/store/index.ts"]
     },
+    "esModuleInterop": true,
     "sourceMap": true,
     "declaration": false,
-    "downlevelIteration": true,
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,
